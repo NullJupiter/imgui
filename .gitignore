@@ -29,6 +29,12 @@ ipch
 ## Xcode artifacts
 project.xcworkspace
 xcuserdata
+**.xcworkspace
+**.xcodeproj
+
+## Custom
+bin/
+bin-int/
 
 ## Emscripten artifacts
 examples/*.o.tmp
